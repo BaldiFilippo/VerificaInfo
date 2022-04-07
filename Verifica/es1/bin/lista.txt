@@ -1,0 +1,8 @@
+ Prodotto non definito 123456789 10.0 Prodotto generico
+ Prodotto Prime ⭐️ 123456789 100.0 oggetto bellissimo Prime Sun Apr 10 12:20:21 CEST 2022
+ Prodotto normale ♻️ 123456789 100.0 oggetto bellissimo Normale false
+ Prodotto normale ♻️ 123456789 90.0 oggetto bellissimo Normale false
+ Prodotto normale ♻️ 123456789 90.0 oggetto bellissimo Normale false
+ Prodotto Prime ⭐️ 123456789 100.0 oggetto bellissimo Prime Sun Apr 10 12:24:35 CEST 2022
+ Prodotto Prime ⭐️ 123456789 100.0 oggetto bellissimo Prime Sat Apr 16 12:24:54 CEST 2022
+ Prodotto Prime ⭐️ 123456789 100.0 oggetto bellissimo Prime Sat Apr 16 12:56:22 CEST 2022
